@@ -1,4 +1,4 @@
-![logo](https://github.com/Chetana-Bhanarkar/Chetana-Bhanarkar/blob/main/Chetana%20Bhanarkar.png)
+<!-- ![logo](https://github.com/Chetana-Bhanarkar/Chetana-Bhanarkar/blob/main/Chetana%20Bhanarkar.png) -->
 
 <h1 align="center">Hi 👋, I'm Chetana Bhanarkar</h1>
 <h3 align="center">Full stack Developer | MEAN stack Developer</h3>
