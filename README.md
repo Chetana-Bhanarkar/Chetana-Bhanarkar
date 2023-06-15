@@ -1,3 +1,5 @@
+![logo](https://github.com/Chetana-Bhanarkar/Chetana-Bhanarkar/blob/main/Chetana%20Bhanarkar.png)
+
 <h1 align="center">Hi 👋, I'm Chetana Bhanarkar</h1>
 <h3 align="center">Full stack Developer | MEAN stack Developer</h3>
 <img align="right" alt="coding"width="400"src="https://media.licdn.com/dms/image/C4D22AQED6dzxfA6EtA/feedshare-shrink_2048_1536/0/1634030043001?e=2147483647&v=beta&t=f9Gw2YHwbnxqcNaoc2Ydan-Rx5Frf324vfJv_WHJTWE">
