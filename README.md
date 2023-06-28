@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetana-bhanarkar&label=Profile%20views&color=0e75b6&style=flat" alt="chetana-bhanarkar" /> </p>
 
-- 🔭 I’m currently working at **Bootcoding **
+- 🔭 I’m currently working at **Bootcoding**
 
 - 🌱 I’m currently learning **NestJS , MongoDB**
 
