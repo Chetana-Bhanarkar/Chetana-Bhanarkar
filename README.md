@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working at **Bootcoding**
 
-- 🌱 I’m currently learning **NestJS , MongoDB**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Chetana-Bhanarkar?tab=repositories](https://github.com/Chetana-Bhanarkar?tab=repositories)
 
 - 💬 Ask me about **Angular , ExpressJS , NodeJS , MySql**
